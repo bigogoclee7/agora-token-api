@@ -1,0 +1,12 @@
+{
+  "name": "agora-token-api",
+  "version": "1.0.0",
+  "description": "Agora Token Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
